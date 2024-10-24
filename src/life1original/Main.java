@@ -9,5 +9,7 @@ public class Main {
     	//   shown in a 500x500 window
         GameOfLifeApp life = new GameOfLifeApp("The Game of Life", 20, 20, 500, 500);
     }
+
+    //test comment
 }
 
